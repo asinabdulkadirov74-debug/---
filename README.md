@@ -134,7 +134,7 @@
 
     <div class="text-container">
         <h1>Сабила</h1>
-        <div class="love-text">вайш ар мац довл ?</div>
+        <div class="love-text">вайш ар мац дол ?</div>
         <!-- Секретный текст ответа -->
         <div id="answer" class="secret-answer">тахан дол</div>
     </div>
